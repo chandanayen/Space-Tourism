@@ -1,0 +1,239 @@
+
+.app{
+  background-image: url('https://raw.githubusercontent.com/saifion33/space-tourism-website/8216ac3c8516ef52cd101c766f3b801389005d0c/assets/home/background-home-desktop.jpg');
+background-repeat: none;
+background-size: cover;
+height: 695px;
+padding: 15px;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  top: 10%;
+}
+
+.header a{
+  text-decoration: none;
+  display: inline-flex;
+  padding: 35px;
+  color: white;
+  background-color: #333;
+  position: relative;
+  right: 10%;
+}
+.content{
+  position: relative;
+  top: 30%;
+  text-align: center;
+ 
+margin-left: 160px;
+  padding: 4px;
+  width: 500px;
+}
+.content-head{
+  font-size: 16px;
+  color:#e8e1e1;
+}
+.content-body{
+  font-size: 10rem;
+  color: #fff;
+}
+.content-para{
+  font-size: 12px;
+  color: #e8e1e1;
+}
+.explore{
+  color:#333;
+  font-size: 3rem; 
+  background-color: #fff;
+  height: 30%;
+  width: 15%;
+  border-radius: 50%;
+  position: relative;
+  padding: 2rem;
+  left: 65%;
+  bottom: 15%;
+}
+.explore-button{
+  position: relative;
+  top: 20px;
+}
+.app-destination{
+  background-image: url('https://raw.githubusercontent.com/saifion33/space-tourism-website/8216ac3c8516ef52cd101c766f3b801389005d0c/assets/destination/background-destination-desktop.jpg');
+  background-repeat: none;
+  background-size: cover;
+  height: 900px;
+ 
+  padding: 15px;
+}
+.destination{
+  color: #fff;
+  margin-top: 8rem;
+  position: relative;
+  left: 12rem;
+  font-size: 30px;
+}
+.destination span{
+  color: #333;
+}
+.header-destination a{
+    text-decoration: none;
+    display: inline-flex;
+    padding: 35px;
+    color: white;
+    position: relative;
+   left: 50rem;
+   top: 10px;
+}
+.moon-destination{
+  display: flex;
+}
+.moon-img-des{
+  position: relative;
+  left: 10rem;
+}
+.div-des{
+ position: relative;
+ left :25rem;
+ top: 1rem;
+ 
+ width: 440px;
+}
+.moon-des{
+  color: #fff;
+  font-size: 72px;
+  text-align: center;
+}
+.moon-des-para{
+  color: slategray;
+  font-size: 18px;
+}
+.moon-des-dis{
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  font-size: 14px;
+  color: slategray;
+}
+.moon-des-dis-day{
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  font-size: 32px;
+}
+.kilos{
+  position:relative;
+  left: 1rem;
+}
+.days{
+ position: relative;
+ right: 2rem;
+}
+
+.app-crew{
+background-image: url('https://raw.githubusercontent.com/saifion33/space-tourism-website/8216ac3c8516ef52cd101c766f3b801389005d0c/assets/crew/background-crew-desktop.jpg');
+background-repeat: none;
+background-size: cover;
+height: 990px;
+padding: 15px;
+}
+.crew{
+  display: flex;
+}
+.crew-matt{
+  position: relative;
+  top:10rem;
+  left: 15rem;
+ 
+  width: 500px;
+}
+.crew-comm{
+  color:#211e1e ;
+  font-size: 32px;
+
+}
+.crew-head{
+  color: #fff; 
+  font-size: 42px;
+
+}
+.crew-para{
+  color:rgb(190, 187, 219) ;
+  font-size: 18px;
+}
+.crew-img{
+  position: relative;
+  left: 20rem;
+  width: 550px;
+  height: 550px;
+  top: 9rem;
+}
+.dot{
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-flex;
+  position: relative;
+  left: 20rem;
+  top:-3rem;
+}
+
+.app-technology{
+  background-image: url('https://raw.githubusercontent.com/saifion33/space-tourism-website/8216ac3c8516ef52cd101c766f3b801389005d0c/assets/technology/background-technology-desktop.jpg');
+  background-repeat: none;
+  background-size: cover;
+  height: 900px;
+  padding: 15px;
+  }
+  .technology-num{
+    position: relative;
+    top: 120px;
+    left: 170px;
+  }
+ .technology-num1{
+    font-size: 42px;
+    color: #fff;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 90px;
+    height: 90px;
+    text-align: center; 
+    cursor: pointer;  
+  }
+  .tech{
+    display: flex;
+
+  }
+  .technology-para{
+    position: relative;
+    left: 350px;
+    top: 120px;
+    width: 500px;
+  }
+  .technology-head{
+    font-size: 15px;
+    color: #bbb;
+  }
+  .technology-heading{
+    font-size: 52px;
+    color: #fff;
+  }
+  .tech-para{
+    font-size: 19px;
+    color:#bbb;
+  }
+  .technology-img{
+    position: relative;
+   left: 360px;
+ 
+  }
+  .image{
+    width: 500px;
+    height: 500px;
+  }
+ 
